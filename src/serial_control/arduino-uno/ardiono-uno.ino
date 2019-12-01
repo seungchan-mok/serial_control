@@ -78,13 +78,13 @@ void loop() {
     myservo.write(pos);
     if(vel > 0)
     {
-      digitalWrite(dc_dir_pin,HIGH);
+      digitalWrite(dc_dir_pin,LOW);
       analogWrite(dc_pwm_pin,vel);
     }
     else
     {
-      digitalWrite(dc_dir_pin,LOW);
-      analogWrite(dc_pwm_pin,vel);
+      digitalWrite(dc_dir_pin,HIGH);
+      analogWrite(dc_pwm_pin,255 - vel);
     }
     delay(10); 
   }

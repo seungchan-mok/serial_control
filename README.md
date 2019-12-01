@@ -24,7 +24,7 @@ Open `arduino-uno.ino` by Arduino IDE, and Upload to Arduino
 
 #### Motor Circuit
 
-
+![](https://github.com/msc9533/ros-simple-control-with-arduino/blob/master/src/serial_control/arduino-uno/circuit.png?raw=true)
 
 ## Usage
 
