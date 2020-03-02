@@ -14,7 +14,7 @@ See pyserial [website](https://pythonhosted.org/pyserial/pyserial.html#installat
 
 ```
 cd <Your Work Space/src>
-git clone https://github.com/msc9533/ros-simple-control-with-arduino.git
+git clone https://github.com/msc9533/serial_control.git
 cd .. && catkin_make
 ```
 
