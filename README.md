@@ -24,7 +24,7 @@ Open `arduino-uno.ino` by Arduino IDE, and Upload to Arduino
 
 #### Motor Circuit
 
-![](./src/serial_control/arduino-uno/circuit.png)
+![img](https://raw.githubusercontent.com/msc9533/serial_control/master/arduino-uno/circuit.png)
 
 ## Usage
 
